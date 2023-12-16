@@ -14,7 +14,7 @@ run_generate_mtdvideo.py generate-mtd-video --network=../trained_networks/{netwo
 
 Changing the seed will result in different videos.
 
-##The following are the original readme:
+## The following are the original readme:
 
 ## StyleGAN2-ADA &mdash; Official PyTorch implementation
 
